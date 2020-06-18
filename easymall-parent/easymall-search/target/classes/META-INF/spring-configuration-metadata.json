@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.tedu.search.config.ESConfig",
+      "name": "es",
+      "type": "cn.tedu.search.config.ESConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.tedu.search.config.ESConfig",
+      "name": "es.nodes",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}

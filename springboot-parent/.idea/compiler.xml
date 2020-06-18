@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-demo01" />
+        <module name="springboot-order" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-eureka-server02" />
+        <module name="spring-cloud-eureka-server01" />
+        <module name="springboot-orderuser" />
+        <module name="spring-cloud-eureka-client03" />
+        <module name="spring-cloud-gateway" />
+        <module name="spring-cloud-eureka-client02" />
+        <module name="spring-cloud-eureka-client01" />
+        <module name="springboot-demo02" />
+        <module name="springboot-user" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-ribbon-client" />
+        <module name="haha" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="haha" options="-parameters" />
+    </option>
+  </component>
+</project>
